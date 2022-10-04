@@ -1,1 +1,2 @@
-Added a readme for the directory
+Added a readme for the directory.
+Updated as required
